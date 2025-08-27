@@ -9,7 +9,7 @@ Each notebook explores different case studies, combining exploratory data analys
 
 ## Notebooks
 
-### Text Mining [[➡️ Live Demo Link]](https://github.com/your-username/data-mining/blob/main/text-mining.html)  
+### Text Mining [[➡️ Live Demo Link]](https://carlos-castano.github.io/data-mining/text-mining.html)  
 This notebook analyzes a dataset of IMDB reviews to extract knowledge and predict sentiment.  
 - **Knowledge extraction:** semantic analysis with Word2Vec and topic modeling with LDA.  
 - **Sentiment prediction:** comparison between a classical Logistic Regression baseline and a transformer-based model (DistilBERT).  
@@ -17,7 +17,7 @@ It provides insights into both lexical and semantic aspects of reviews, as well 
 
 ---
 
-### Fish Ensemble Models Regression [[➡️ Live Demo Link]](https://github.com/your-username/data-mining/blob/main/fish-ensemble-models-regression.html)  
+### Fish Ensemble Models Regression [[➡️ Live Demo Link]](https://carlos-castano.github.io/data-mining/fish-ensemble-models-regression.html)  
 A regression notebook aimed at predicting fish weight for the fishing industry.  
 It compares traditional models (Linear Regression, Decision Trees, kNN) with ensemble techniques to evaluate accuracy and robustness in practical applications.  
 
